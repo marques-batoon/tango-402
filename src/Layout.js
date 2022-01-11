@@ -10,7 +10,7 @@ const Layout = (props) => {
     return  (
         <React.Fragment>
             <nav>
-                <Link to="/"><span className="nav-header"><h1>日本語401</h1></span></Link>
+                <Link to="/"><span className="nav-header"><h1>日本語402</h1></span></Link>
             </nav>
             <div className = "container">
                 {props.children}
@@ -28,7 +28,7 @@ const Layout = (props) => {
                         <FontAwesomeIcon icon={['fab', 'github']} />
                     </a>
                 </div>
-                <p className="text-center">©2021 Marques Batoon</p>
+                <p className="text-center">©2022 Marques Batoon</p>
             </footer>
         </React.Fragment>
     );
