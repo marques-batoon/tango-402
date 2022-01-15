@@ -57,6 +57,17 @@ const kanji = {
         特有: { 読み方: ['とくゆう'], form: 'の形容詞、な形容詞', 意味: "characteristic (of); peculiar (of)" },
         比較的: { 読み方: ['ひかくてき'], form: '副詞', 意味: "comparatively; relatively" },
         謎: { 読み方: ['なぞ'], form: '名詞', 意味: "mystery; riddle" },
+        板壁: { 読み方: ['いたかべ'], form: '名詞', 意味: "wooden wall" },
+        丹念: { 読み方: ['たんねん'], form: 'な形容詞、名詞', 意味: "careful; patient; meticulous" },
+        色あせる: { 読み方: ['いろあせる'], form: '一段動詞、自動詞', 意味: "to fade in color" },
+        潜む: { 読み方: ['ひそむ'], form: '五段動詞、自動詞', 意味: "to lurk; to be hidden; to be concealed; to be dormant" },
+        無法地帯: { 読み方: ['むほうちたい'], form: '名詞', 意味: "lawless area; lawless district" },
+        醤油差し: { 読み方: ['しょうゆさし'], form: '名詞', 意味: "soy sauce bottle" },
+        爪楊枝: { 読み方: ['つまようじ'], form: '名詞', 意味: "toothpick" },
+        ガラス製: { 読み方: ['ガラスせい'], form: 'の形容詞', 意味: "(made of) glass" },
+        塞ぐ: { 読み方: ['ふさぐ'], form: '五段動詞、他動詞', 意味: "to block; cover; clog up" },
+        金属製: { 読み方: ['きんぞくせい'], form: '名詞、の形容詞', 意味: "(made from) metal; metallic" },
+        常人: { 読み方: ['じょうじん'], form: '名詞', 意味: "ordinary person" },
 
         // Unit 1_2
         姿: { 読み方: ['すがた'], form: '名詞', 意味: "figure; form; shape; appearance" },
