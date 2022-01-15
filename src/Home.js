@@ -23,7 +23,7 @@ class Home extends React.Component {
         const{ kanjiSetClick } = this.state;
         return(
             <React.Fragment>
-
+                {/*
                 <h1 className="text-center">全ての単語と漢字</h1>
 
                 <div className="homeButtonContainer">
@@ -33,6 +33,7 @@ class Home extends React.Component {
                 </div>
 
                 <hr></hr>
+                */}
 
                 <h2 className="text-center">ユニットで分かれた単語と漢字</h2>
 
