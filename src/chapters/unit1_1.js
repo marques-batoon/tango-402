@@ -33,7 +33,32 @@ const unit1_1 = {
         裏側: { 読み方: ['うらがわ'], form: '名詞', 意味: "the reverse side; other side" },
         廊下: { 読み方: ['ろうか'], form: '名詞', 意味: "hallway; corridor" },
         ほっとく: { 読み方: [''], form: '表現', 意味: "＝（人を）ほうっておくto leave someone alone" },
-        ある種: { 読み方: ['あるしゅ'], form: '名詞、ノ形容詞', 意味: "a sort of~; certain; some kind of" },
+        ある種: { 読み方: ['あるしゅの'], form: '名詞、ノ形容詞', 意味: "a sort of~; certain; some kind of" },
+        気に入る: { 読み方: ['きにいる'], form: '表現、五段動詞', 意味: "to like; come into someone's favor" },
+        越す: { 読み方: ['こす'], form: '五段動詞、尊敬語', 意味: "to go; to come" },
+        瓶: { 読み方: ['びん'], form: '名詞', 意味: "bottle" },
+        容器: { 読み方: ['ようき'], form: '名詞', 意味: "container; vessel; packaging" },
+        塩: { 読み方: ['しお'], form: '名詞', 意味: "salt" },
+        見かける: { 読み方: ['みかける'], form: '一段動詞、他動詞', 意味: "to see; come across; to catch sight of; to (happen to) see" },
+        透明: { 読み方: ['とうめい'], form: 'ナ形容詞', 意味: "transparent; clear" },
+        蓋: { 読み方: ['ふた'], form: '名詞', 意味: "transparent; clear" },
+        穴: { 読み方: ['あな'], form: '名詞', 意味: "hole" },
+        振る: { 読み方: ['ふる'], form: '五段動詞、他動詞', 意味: "to wave; to shake" },
+        山盛り: { 読み方: ['やまもり'], form: '名詞、ノ形容詞', 意味: "heap" },
+        ロビー: { 読み方: [''], form: '名詞', 意味: "lobby" },
+        奥: { 読み方: ['おく'], form: '名詞', 意味: "(further in) back" },
+        便座: { 読み方: ['べんざ'], form: '名詞', 意味: "toilet seat" },
+        目撃: { 読み方: ['もくげき'], form: '名詞、スル動詞、他動詞', 意味: "witnessing; observing; sighting" },
+        事実: { 読み方: ['じじつ'], form: '副詞、名詞', 意味: "fact; truth; reality" },
+        足跡: { 読み方: ['あしあと'], form: '名詞', 意味: "footprint" },
+        後を絶たない: { 読み方: ['あしをたたない'], form: '表現、イ形容詞', 意味: "never ceasing; never ending; endless" },
+        事態: { 読み方: ['じたい'], form: '名詞', 意味: "state (of affairs/things); circumstances" },
+        特有: { 読み方: ['とくゆう'], form: 'の形容詞、な形容詞', 意味: "characteristic (of); peculiar (of)" },
+        比較的: { 読み方: ['ひかくてき'], form: '副詞', 意味: "comparatively; relatively" },
+        謎: { 読み方: ['なぞ'], form: '名詞', 意味: "mystery; riddle" },
+
+
+
     },
 
     kaku: {
