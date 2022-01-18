@@ -42,7 +42,7 @@ const kanji = {
         塩: { 読み方: ['しお'], form: '名詞', 意味: "salt" },
         見かける: { 読み方: ['みかける'], form: '一段動詞、他動詞', 意味: "to see; come across; to catch sight of; to (happen to) see" },
         透明: { 読み方: ['とうめい'], form: 'ナ形容詞', 意味: "transparent; clear" },
-        蓋: { 読み方: ['ふた'], form: '名詞', 意味: "transparent; clear" },
+        蓋: { 読み方: ['ふた'], form: '名詞', 意味: "cover; lid; cap" },
         穴: { 読み方: ['あな'], form: '名詞', 意味: "hole" },
         振る: { 読み方: ['ふる'], form: '五段動詞、他動詞', 意味: "to wave; to shake" },
         山盛り: { 読み方: ['やまもり'], form: '名詞、ノ形容詞', 意味: "heap" },
