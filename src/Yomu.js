@@ -239,7 +239,7 @@ class Yomu extends React.Component {
                 nextDis: false,
             };
         }
- 
+
 
     }
 
