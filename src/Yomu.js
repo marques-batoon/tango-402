@@ -240,6 +240,7 @@ class Yomu extends React.Component {
             };
         }
 
+
     }
 
     componentDidMount(){
