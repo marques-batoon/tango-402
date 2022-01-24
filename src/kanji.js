@@ -128,7 +128,6 @@ const kanji = {
         いのちしらず: { 読み方: ['命知らず'], form: '名詞、の形容詞、な形容詞', 意味: "recklessness; daredevil; rashness" },
         あたま: { 読み方: ['頭'], form: '名詞', 意味: "head; brains; intellect" },
         そうぞう: { 読み方: ['想像'], form: '名詞、する動詞、他動詞', 意味: "imagination; supposition" },
-        
         // : { 読み方: [''], form: '', 意味: "" },
     },
 
