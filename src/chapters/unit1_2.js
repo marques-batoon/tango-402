@@ -32,12 +32,25 @@ const unit1_2 = {
 
 
     kaku: {
-        まど: { 読み方: ['窓'], form: '名詞', 意味: "window" },
+        こえる: { 読み方: ['越える'], form: '一段動詞、他動詞', 意味: "to cross over; to surpass" },
+        どうろ: { 読み方: ['道路'], form: '名詞', 意味: "road; highway" },
+        まがる: { 読み方: ['曲がる'], form: '五段動詞、自動詞', 意味: "to bend; to curve; to turn" },
+        たに: { 読み方: ['谷'], form: '名詞', 意味: "valley" },
+        てんらく: { 読み方: ['転落'], form: '名詞、する動詞、自動詞', 意味: "fall; tumble; plunge" },
+        はっけん: { 読み方: ['発見'], form: '名詞、する動詞、他動詞', 意味: "discovery; finding" },
+        あぶない: { 読み方: ['危ない'], form: 'い形容詞', 意味: "dangerous; risky; hazardous; perilous" },
+        いのちしらず: { 読み方: ['命知らず'], form: '名詞、の形容詞、な形容詞', 意味: "recklessness; daredevilry; rashness" },
+        あたま: { 読み方: ['頭'], form: '名詞', 意味: "head; mind; brains; intellect" },
+        そうぞう: { 読み方: ['想像'], form: '名詞、する動詞、他動詞', 意味: "imagination; supposition" },
         //: { 読み方: [''], form: '', 意味: "" },
     },
 
     yomerebaii: {
-        提案: { 読み方: ['ていあん'], form: '名詞、スル動詞', 意味: "to propose; suggestion" },
+        峠: { 読み方: ['とうげ'], form: '名詞', 意味: "mountain peak" },
+        険しい: { 読み方: ['けわしい'], form: 'い形容詞', 意味: "steep; grim" },
+        誤る: { 読み方: ['あやまる'], form: '五段動詞、他動詞', 意味: "to make a mistake (in); to commit an error; to be wrong" },
+        恐怖: { 読み方: ['きょうふ'], form: '名詞、する動詞', 意味: "fear; dread; dismay; terror; horror" },
+        標識: { 読み方: ['ひょうしき'], form: '名詞', 意味: "sign; mark; flag" },
         //: { 読み方: [''], form: '', 意味: "" },
         
     },
