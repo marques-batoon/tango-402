@@ -32,17 +32,17 @@ const unit1_2 = {
 
 
     kaku: {
-        こえる: { 読み方: ['越える'], form: '一段動詞、他動詞', 意味: "to cross over; to surpass" },
+        こえる: { 読み方: ['越える'], form: '一段動詞、他動詞', 意味: "to surpass; to cross over" },
         どうろ: { 読み方: ['道路'], form: '名詞', 意味: "road; highway" },
-        まがる: { 読み方: ['曲がる'], form: '五段動詞、自動詞', 意味: "to bend; to curve; to turn" },
+        まがる: { 読み方: ['曲がる'], form: '五段動詞、自動詞', 意味: "to turn; to bend; to curve" },
         たに: { 読み方: ['谷'], form: '名詞', 意味: "valley" },
         てんらく: { 読み方: ['転落'], form: '名詞、する動詞、自動詞', 意味: "fall; tumble; plunge" },
-        はっけん: { 読み方: ['発見'], form: '名詞、する動詞、他動詞', 意味: "discovery; finding" },
-        あぶない: { 読み方: ['危ない'], form: 'い形容詞', 意味: "dangerous; risky; hazardous; perilous" },
-        いのちしらず: { 読み方: ['命知らず'], form: '名詞、の形容詞、な形容詞', 意味: "recklessness; daredevilry; rashness" },
-        あたま: { 読み方: ['頭'], form: '名詞', 意味: "head; mind; brains; intellect" },
+        かいかん: { 読み方: ['快感'], form: '名詞', 意味: "pleasant feeling; pleasant sensation; pleasure" },
+        はっけん: { 読み方: ['発見'], form: '名詞、する動詞、他動詞', 意味: "discovery; detection; finding" },
+        あぶない: { 読み方: ['危ない'], form: 'い形容詞', 意味: "dangerous; perilous; risky; hazardous" },
+        いのちしらず: { 読み方: ['命知らず'], form: '名詞、の形容詞、な形容詞', 意味: "recklessness; daredevil; rashness" },
+        あたま: { 読み方: ['頭'], form: '名詞', 意味: "head; brains; intellect" },
         そうぞう: { 読み方: ['想像'], form: '名詞、する動詞、他動詞', 意味: "imagination; supposition" },
-        //: { 読み方: [''], form: '', 意味: "" },
     },
 
     yomerebaii: {
@@ -51,7 +51,6 @@ const unit1_2 = {
         誤る: { 読み方: ['あやまる'], form: '五段動詞、他動詞', 意味: "to make a mistake (in); to commit an error; to be wrong" },
         恐怖: { 読み方: ['きょうふ'], form: '名詞、する動詞', 意味: "fear; dread; dismay; terror; horror" },
         標識: { 読み方: ['ひょうしき'], form: '名詞', 意味: "sign; mark; flag" },
-        //: { 読み方: [''], form: '', 意味: "" },
         
     },
 }
