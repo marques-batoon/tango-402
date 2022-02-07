@@ -172,6 +172,26 @@ const kanji = {
         あたま: { 読み方: ['頭'], form: '名詞', 意味: "head; brains; intellect" },
         そうぞう: { 読み方: ['想像'], form: '名詞、する動詞、他動詞', 意味: "imagination; supposition" },
         // : { 読み方: [''], form: '', 意味: "" },
+
+        // Unit 2_1
+        ちゅうしゃじょう: { 読み方: ['駐車場'], form: '名詞', 意味: "parking lot" },
+        ちゅうねん: { 読み方: ['中年'], form: '名詞、の形容詞', 意味: "middle-age" },
+        ひやけ: { 読み方: ['日焼け'], form: '名詞、する動詞、自動詞', 意味: "sunburn; suntan" },
+        かんそ: { 読み方: ['簡素'], form: 'な形容詞、名詞', 意味: "modest; simple; plain" },
+        いふく: { 読み方: ['衣服'], form: '名詞', 意味: "clothes" },
+        かんする: { 読み方: ['（〜に）関する'], form: 'するどうし', 意味: "to concern; to be related" },
+        しみん: { 読み方: ['市民'], form: '名詞', 意味: "citizen; townsfolk" },
+        みわけ: { 読み方: ['見分け'], form: '名詞', 意味: "distinction" },
+        きんがく: { 読み方: ['金額'], form: '名詞', 意味: "amount of money; sum of money" },
+        げんてい: { 読み方: ['限定'], form: '名詞、する動詞、の形容詞', 意味: "limit; restriction" },
+        もとめる: { 読み方: ['求める'], form: '一段動詞、他動詞', 意味: "to want; to wish for; to request" },
+        やく: { 読み方: ['焼く'], form: '五段動詞、他動詞', 意味: "to burn; to heat; to grill" }, 
+        におい: { 読み方: ['匂い'], form: '名詞', 意味: "scent; aroma" },
+        どうじょう: { 読み方: ['同情'], form: '名詞、する動詞、自動詞', 意味: "sympathy; compassion; pity" },
+        さつ: { 読み方: ['札'], form: '名詞', 意味: "banknote; bill; paper money" },
+        ておくれ: { 読み方: ['手遅れ'], form: '名詞', 意味: "being too late; losing one's final chance" },
+
+
     },
 
     yomerebaii: {
@@ -196,6 +216,22 @@ const kanji = {
         誤る: { 読み方: ['あやまる'], form: '五段動詞、他動詞', 意味: "to make a mistake (in); to commit an error; to be wrong" },
         恐怖: { 読み方: ['きょうふ'], form: '名詞、する動詞', 意味: "fear; dread; dismay; terror; horror" },
         標識: { 読み方: ['ひょうしき'], form: '名詞', 意味: "sign; mark; flag" },
+
+        // Unit 2_1
+        滞在: { 読み方: ['たいざい'], form: '名詞、する動詞、自動詞', 意味: "stay" },
+        髪: { 読み方: ['かみ'], form: '名詞', 意味: "hair (on the head)" },
+        服装: { 読み方: ['ふくそう'], form: '名詞', 意味: "attire; garment" },
+        お腹: { 読み方: ['おなか'], form: '名詞', 意味: "belly; stomach" },
+        街角: { 読み方: ['まちかど'], form: '名詞', 意味: "street corner" },
+        小銭: { 読み方: ['こぜに'], form: '名詞', 意味: "small change; coins" },
+        援助: { 読み方: ['えんじょ'], form: '名詞、する動詞、他動詞', 意味: "assistance; aid; support" },
+        漂う: { 読み方: ['ただよう'], form: '五段動詞、自動詞', 意味: "to drift; to float; to waft (e.g. a scent)" },
+        訴える: { 読み方: ['うったえる'], form: '一段動詞、他動詞', 意味: "to bring to (someone's attention); to appeal to (reason, emotions, etc.); to play on (one's sympathies); to sue" },
+        企画力: { 読み方: ['きかくりょく'], form: '名詞', 意味: "planning ability" },
+        財布: { 読み方: ['さいふ'], form: '名詞', 意味: "wallet; handbag; purse" },
+        浮かぶ: { 読み方: ['うかぶ'], form: '五段動詞', 意味: "to float; to be suspended" },
+
+
 
         // : { 読み方: [''], form: '', 意味: "" },
     }
