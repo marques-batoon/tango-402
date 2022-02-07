@@ -205,6 +205,13 @@ class Yomu extends React.Component {
         this.setState({ imiButton: "d-none", imiClass: "imi" });
     }
 
+    keyUpHandler = (e) => {
+        if (e.key === 's') {
+            console.log("hello");
+            this.shuffleArray();
+        }
+    }
+
     render() {
         const { characters, set, setName, num, shuffleHide, yomikataButton, yomikataClass, imiButton, imiClass, prevDis, nextDis } = this.state;
 
@@ -266,6 +273,7 @@ class Yomu extends React.Component {
                 <div className="center">
                     <h3 className={imiClass}>{imiSet()}</h3>
                 </div>
+                <div onKeyUp={this.keyUpHandler}> </div>
             </React.Fragment>
         )
     }
