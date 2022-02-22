@@ -171,7 +171,7 @@ const kanji = {
         いのちしらず: { 読み方: ['命知らず'], form: '名詞、の形容詞、な形容詞', 意味: "recklessness; daredevil; rashness" },
         あたま: { 読み方: ['頭'], form: '名詞', 意味: "head; brains; intellect" },
         そうぞう: { 読み方: ['想像'], form: '名詞、する動詞、他動詞', 意味: "imagination; supposition" },
-        // : { 読み方: [''], form: '', 意味: "" },
+        
 
         // Unit 2_1
         ちゅうしゃじょう: { 読み方: ['駐車場'], form: '名詞', 意味: "parking lot" },
@@ -190,6 +190,14 @@ const kanji = {
         どうじょう: { 読み方: ['同情'], form: '名詞、する動詞、自動詞', 意味: "sympathy; compassion; pity" },
         さつ: { 読み方: ['札'], form: '名詞', 意味: "banknote; bill; paper money" },
         ておくれ: { 読み方: ['手遅れ'], form: '名詞', 意味: "being too late; losing one's final chance" },
+
+        // Unit 2_2
+        教訓: { 読み方: ['きょうくん'], form: '名詞、する動詞、他動詞', 意味: "lesson, teachings, moral" },
+        ある程度: { 読み方: ['あるていど'], form: '表現、の形容詞、副詞', 意味: "to some extent; to a certain extent" },
+        領域: { 読み方: ['りょういき'], form: '名詞、の形容詞', 意味: "area; domain; region" },
+        単に: { 読み方: ['たんに'], form: '副詞', 意味: "simply; merely; only" },
+
+        // : { 読み方: [''], form: '', 意味: "" },
 
 
     },
