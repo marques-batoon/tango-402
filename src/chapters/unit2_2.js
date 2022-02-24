@@ -71,7 +71,13 @@ const unit2_2 = {
     },
 
     yomerebaii: {
-
+        教訓: { 読み方: ['きょうくん'], form: '名詞', 意味: "moral; lesson; teachings" },
+        隅: { 読み方: ['すみ'], form: '名詞', 意味: "corner; nook" },
+        胸: { 読み方: ['むね'], form: '名詞', 意味: "chest" },
+        巣: { 読み方: ['す'], form: '名詞', 意味: "nest; breeding place; hive; (spider's) web; den" },
+        提出: { 読み方: ['ていしゅつ'], form: '名詞、する動詞、他動詞', 意味: "turning in; submission (of an application, report, etc.)" },
+        一連: { 読み方: ['いちれん'], form: '名詞、の形容詞', 意味: "series" },
+        意気揚々: { 読み方: ['いきようよう'], form: 'たる形容詞、と副詞', 意味: "triumphant; in high and proud spirits" },
     },
 }
 
