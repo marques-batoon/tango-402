@@ -179,7 +179,7 @@ const kanji = {
         出来事: { 読み方: ['できごと'], form: '名詞', 意味: "incident; affair; happening; event" },
         日記: { 読み方: ['にっき'], form: '名詞', 意味: "diary; journal" },
         花丸: { 読み方: ['はなまる'], form: '名詞', 意味: "encircled flower seal" },
-        返却: { 読み方: ['へんきゃく'], form: '名詞、する動詞、他動詞', 意味: "erturn of something; repayment" },
+        返却: { 読み方: ['へんきゃく'], form: '名詞、する動詞、他動詞', 意味: "return of something; repayment" },
         息が詰まる: { 読み方: ['いきがつまる'], form: '表現、五段動詞', 意味: "to feel suffocate; to choke; to have trouble breathing" },
         思いやる: { 読み方: ['おもいやる'], form: '五段動詞、他動詞', 意味: "to be considerate; to sympathise with ［n.思いやり］" },
         理論的: { 読み方: ['りろんてき'], form: 'な形容詞', 意味: "theoretical" },
@@ -246,6 +246,32 @@ const kanji = {
         さつ: { 読み方: ['札'], form: '名詞', 意味: "banknote; bill; paper money" },
         ておくれ: { 読み方: ['手遅れ'], form: '名詞', 意味: "being too late; losing one's final chance" },
 
+
+        // Unit 2_2
+        ていど: { 読み方: ['程度'], form: '名詞、副詞、接尾詞', 意味: "degree; amount" },
+        たんに: { 読み方: ['単に'], form: '副詞', 意味: "simply; merely" },
+        ぐたいてき: { 読み方: ['具体的'], form: 'な形容詞', 意味: "specific; definite; concrete" },
+        じじょう: { 読み方: ['事情'], form: '名詞', 意味: "circumstances; conditions; situation; state of affairs" },
+        はんしゃてき: { 読み方: ['反射的'], form: 'な形容詞', 意味: "reflexive; reflecting" },
+        こうふく: { 読み方: ['幸福'], form: '名詞、な形容詞', 意味: "happiness; well-being; joy" },
+        いのる: { 読み方: ['祈る'], form: '五段動詞、他動詞', 意味: "to pray; to wish" },
+        せっす: { 読み方: ['接する／接す'], form: '五段動詞、する動詞、自動詞', 意味: "to treat; to come in contact with" },
+        やさしい: { 読み方: ['優しい'], form: 'い形容詞', 意味: "tender; kind; gentle; affectionate; amiable" },
+        きょうし: { 読み方: ['教師'], form: '名詞', 意味: "先生" },
+        つきささる: { 読み方: ['突き刺さる'], form: '五段動詞、自動詞', 意味: "to stick into; to pierce" },
+        いたむ: { 読み方: ['痛む'], form: '五段動詞、自動詞', 意味: "to hurt; to ache; to feel a pain" },
+        とうじ: { 読み方: ['当時'], form: '名詞、副詞', 意味: "at that time; in those days" },
+        なまいき: { 読み方: ['生意気'], form: 'な形容詞', 意味: "impertinent; audacious; cocky; cheeky" },
+        できごと: { 読み方: ['出来事'], form: '名詞', 意味: "incident; affair; happening; event" },
+        にっき: { 読み方: ['日記'], form: '名詞', 意味: "diary; journal" },
+        はなまる: { 読み方: ['花丸'], form: '名詞', 意味: "encircled flower seal" },
+        いき: { 読み方: ['息'], form: '名詞', 意味: "breath; breathing" },
+        つまる: { 読み方: ['詰まる'], form: '五段動詞、自動詞', 意味: "to be packed (with); to be blocked; to be clogged" },
+        りろんてき: { 読み方: ['理論的'], form: 'な形容詞', 意味: "theoretical" },
+        いらい: { 読み方: ['以来'], form: '名詞、副詞', 意味: "since; henceforth" },
+        つねに: { 読み方: ['常に'], form: '副詞', 意味: "always; constantly" },
+        きほん: { 読み方: ['基本'], form: '名詞、の形容詞', 意味: "basics; fundamentals; basis; foundation" },
+
         // : { 読み方: [''], form: '', 意味: "" },
 
 
@@ -288,7 +314,14 @@ const kanji = {
         財布: { 読み方: ['さいふ'], form: '名詞', 意味: "wallet; handbag; purse" },
         浮かぶ: { 読み方: ['うかぶ'], form: '五段動詞', 意味: "to float; to be suspended" },
 
-
+        // Unit 2_2
+        教訓: { 読み方: ['きょうくん'], form: '名詞', 意味: "moral; lesson; teachings" },
+        隅: { 読み方: ['すみ'], form: '名詞', 意味: "corner; nook" },
+        胸: { 読み方: ['むね'], form: '名詞', 意味: "chest" },
+        巣: { 読み方: ['す'], form: '名詞', 意味: "nest; breeding place; hive; (spider's) web; den" },
+        提出: { 読み方: ['ていしゅつ'], form: '名詞、する動詞、他動詞', 意味: "turning in; submission (of an application, report, etc.)" },
+        一連: { 読み方: ['いちれん'], form: '名詞、の形容詞', 意味: "series" },
+        意気揚々: { 読み方: ['いきようよう'], form: 'たる形容詞、と副詞', 意味: "triumphant; in high and proud spirits" },
 
         // : { 読み方: [''], form: '', 意味: "" },
     }
