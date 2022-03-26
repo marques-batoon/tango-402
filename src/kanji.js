@@ -417,6 +417,16 @@ const kanji = {
         つねに: { 読み方: ['常に'], form: '副詞', 意味: "always; constantly" },
         きほん: { 読み方: ['基本'], form: '名詞、の形容詞', 意味: "basics; fundamentals; basis; foundation" },
 
+        // Unit 3_1
+        やくそく: { 読み方: ['約束'], form: '名詞、する動詞', 意味: "promise; contract" },
+        ころ: { 読み方: ['頃'], form: '名詞、副詞、接尾辞', 意味: "(approximate) time; around; about; toward; time of year" },
+        こいびと: { 読み方: ['恋人'], form: '名詞', 意味: "lover; sweetheart; significant other" },
+        わかれる: { 読み方: ['別れる'], form: '一段動詞、自動詞', 意味: "to part; to part from; to break up" },
+        うんめい: { 読み方: ['運命'], form: '名詞、の形容詞', 意味: "destiny; fate" },
+        いっしょう: { 読み方: ['一生'], form: '名詞、の形容詞、副詞', 意味: "whole life; a lifetime; (the only, the greatest, etc.) of one's life" },
+        ちょくご: { 読み方: ['直後'], form: '名詞、副詞', 意味: "immediately folllowing" },
+        とつぜん: { 読み方: ['突然'], form: '名詞、な形容詞、副詞', 意味: "abrupt; sudden; unexpected" },
+
         // : { 読み方: [''], form: '', 意味: "" },
 
 
@@ -468,7 +478,22 @@ const kanji = {
         一連: { 読み方: ['いちれん'], form: '名詞、の形容詞', 意味: "series" },
         意気揚々: { 読み方: ['いきようよう'], form: 'たる形容詞、と副詞', 意味: "triumphant; in high and proud spirits" },
 
-        // : { 読み方: [''], form: '', 意味: "" },
+        //Unit 3_1
+        我々: { 読み方: ['われわれ'], form: '代名詞', 意味: "we" },
+        仲: { 読み方: ['なか'], form: '名詞', 意味: "relation; relationship" },
+        酒場: { 読み方: ['さかば'], form: '名詞', 意味: "bar; pub; tavern" },
+        壊す: { 読み方: ['こわす'], form: '五段動詞、他動詞', 意味: "to break; to destroy" },
+        忠告: { 読み方: ['ちゅうこく'], form: '名詞、する動詞、の形容詞、他動詞', 意味: "advice; warning" },
+        永遠: { 読み方: ['えいえん'], form: '名詞、の形容詞、な形容詞', 意味: "eternity" },
+        結局: { 読み方: ['けっきょく'], form: '副詞、名詞、の形容詞', 意味: "after all; in the end; ultimately; conclusion; end" },
+        存在: { 読み方: ['そんざい'], form: '名詞、する動詞、の形容詞、自動詞', 意味: "existence; being" },
+        空白: { 読み方: ['くうはく'], form: '名詞、な形容詞、の形容詞', 意味: "vacuum; blank; void; blank space (in documents)" },
+        周辺: { 読み方: ['しゅうへん'], form: '名詞', 意味: "circumference; outskirts; in the area of; in the vicinity of" },
+        前触れ: { 読み方: ['まえぶれ'], form: '名詞、する動詞、自動詞', 意味: "advance warning; previous notice; prior announcement" },
+        出張: { 読み方: ['しゅっちょう'], form: '名詞、する動詞、自動詞', 意味: "business trip" },
+        札幌: { 読み方: ['さっぽろ'], form: '名詞', 意味: "Sapporo (city in Hokkaido)" },
+
+        // : { 読み方: [''], form: '', 意味: ""  },
     }
 }
 

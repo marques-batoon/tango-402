@@ -291,7 +291,7 @@ class Yomu extends React.Component {
         }
         else if (test==='?set=u3-yomu-1') {
             this.state = {
-                characters: Object.keys(unit3_1.yomerebaii),
+                characters: Object.keys(unit3_1.yomerabaii),
                 set: "yomu",
                 setName: "U3_1 読み方を覚える漢字",
                 num: 0,
@@ -351,7 +351,7 @@ class Yomu extends React.Component {
         }
         else if (test==='?set=u3-yomu-2') {
             this.state = {
-                characters: Object.keys(unit3_2.yomerebaii),
+                characters: Object.keys(unit3_2.yomerabaii),
                 set: "yomu",
                 setName: "U3_2 読み方を覚える漢字",
                 num: 0,
