@@ -61,7 +61,7 @@ const unit3_2 = {
     },
 
     yomerabaii: {
-
+        
     },
 }
 
