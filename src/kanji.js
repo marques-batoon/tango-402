@@ -427,6 +427,19 @@ const kanji = {
         ちょくご: { 読み方: ['直後'], form: '名詞、副詞', 意味: "immediately folllowing" },
         とつぜん: { 読み方: ['突然'], form: '名詞、な形容詞、副詞', 意味: "abrupt; sudden; unexpected" },
 
+        // Unit 3_2
+        じしん: { 読み方: ['自信'], form: '名詞、する動詞', 意味: "self-confidence; confidence (in oneself)" },
+        じつぶつ: { 読み方: ['実物'], form: '名詞', 意味: "real thing; original" },
+        はつばい: { 読み方: ['発売'], form: '名詞、する動詞、他動詞', 意味: "sale; offering for sale; release (for sale)" },
+        ながれ: { 読み方: ['流れ'], form: '名詞', 意味: "flow (of a fluid, gas, people, things; passage (of time); stream; current; course of events" },
+        げんち: { 読み方: ['現地'], form: '名詞', 意味: "actual place; actual location" },
+        かち: { 読み方: ['価値'], form: '名詞', 意味: "value; worth; merit" },
+        がめん: { 読み方: ['画面'], form: '名詞', 意味: "screen (of a TV, computer, etc.)" },
+        りよう: { 読み方: ['利用'], form: '名詞、する動詞、他動詞', 意味: "use; utilization" },
+        きょだい: { 読み方: ['巨大'], form: 'な形容詞、名詞', 意味: "huge; gigantic; enormous" },
+        ひっし: { 読み方: ['必死'], form: 'な形容詞、の形容詞', 意味: "frantic; desparate" },
+        さいど: { 読み方: ['再度'], form: '副詞、名詞', 意味: "a second time; again; once more; twice" },
+
         // : { 読み方: [''], form: '', 意味: "" },
 
 
@@ -492,6 +505,26 @@ const kanji = {
         前触れ: { 読み方: ['まえぶれ'], form: '名詞、する動詞、自動詞', 意味: "advance warning; previous notice; prior announcement" },
         出張: { 読み方: ['しゅっちょう'], form: '名詞、する動詞、自動詞', 意味: "business trip" },
         札幌: { 読み方: ['さっぽろ'], form: '名詞', 意味: "Sapporo (city in Hokkaido)" },
+
+        // Unit 3_2
+        昆虫: { 読み方: ['こんちゅう'], form: '名詞、の形容詞', 意味: "insect; bug" },
+        箱: { 読み方: ['はこ／ーばこ'], form: '名詞', 意味: "box; case; packge" },
+        採集: { 読み方: ['さいしゅう'], form: '名詞、する動詞、他動詞', 意味: "collecting; gathering" },
+        満足: { 読み方: ['まんぞく'], form: '名詞、な形容詞、する動詞', 意味: "satisfaction; contentment; sufficient; satisfactory; enough; adequate" },
+        同級生: { 読み方: ['どうきゅうせい'], form: '名詞', 意味: "classmate" },
+        本格的: { 読み方: ['ほんかくてき'], form: 'な形容詞', 意味: "genuine; real; authentic; full-scale; proper; full-fledged" },
+        悪気: { 読み方: ['わるぎ'], form: '名詞', 意味: "ill will; malice; evil intent" },
+        文句: { 読み方: ['もんく'], form: '名詞', 意味: "complaint; objection; grumbling" },
+        指: { 読み方: ['ゆび'], form: '名詞', 意味: "finger; toe" },
+        冗談: { 読み方: ['じょうだん'], form: '名詞', 意味: "joke; jest; funny story" },
+        動作: { 読み方: ['どうさ'], form: '名詞、する動詞、自動詞', 意味: "movement (of the body); motion; behavior; operation (of a machine, software, etc.)" },
+        確認: { 読み方: ['かくにん'], form: '名詞、する動詞、他動詞', 意味: "confirmation; verification; validation" },
+        作業: { 読み方: ['さぎょう'], form: '名詞、する動詞', 意味: "work; operatin; manufacturing; fatigue duty" },
+        冷蔵庫: { 読み方: ['れいぞうこ'], form: '名詞', 意味: "fridge" },
+        警察: { 読み方: ['けいさつ'], form: '名詞', 意味: "police" },
+        真剣: { 読み方: ['しんけん'], form: 'な形容詞', 意味: "serious; earnest" },
+        飛び出す: { 読み方: ['とびだす'], form: '五段動詞、自動詞', 意味: "to jump out; to rush out; to fly out" },
+        商店街: { 読み方: ['しょうてんがい'], form: '名詞', 意味: "shopping district; shopping street; downtown" },
 
         // : { 読み方: [''], form: '', 意味: ""  },
     }
