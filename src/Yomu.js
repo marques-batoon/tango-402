@@ -11,6 +11,7 @@ import unit3_1_sankou from './chapters/unit3_1_sankou';
 import unit3_2 from './chapters/unit3_2';
 import unit3_2_sankou from './chapters/unit3_2_sankou';
 import unit4_1 from './chapters/unit4_1';
+import unit4_1_sankou from './chapters/unit4_1_sankou';
 
 class Yomu extends React.Component {
     constructor(props) {
@@ -425,11 +426,11 @@ class Yomu extends React.Component {
                 nextDis: false,
             };
         }
-        else if (test==='?set=u3-tango-1_sankou'){
+        else if (test==='?set=u4-tango-1_sankou'){
             this.state={
-                characters: Object.keys(unit3_1_sankou.tango),
+                characters: Object.keys(unit4_1_sankou.tango),
                 set: "tango",
-                setName: "U3 参考にする単語 1",
+                setName: "U4 参考にする単語 1",
                 num: 0,
                 shuffleHide: "",
                 yomikataButton: "",
