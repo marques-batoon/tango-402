@@ -47,7 +47,29 @@ const unit4_1 = {
     },
 
     yomerabaii: {
-
+        記者: { 読み方: ['きしゃ'], form: '名詞', 意味: "reporter; journalist"  },
+        名字: { 読み方: ['みょうじ'], form: '名詞', 意味: "last name; family name; surname"  },
+        用紙: { 読み方: ['ようし'], form: '名詞', 意味: "blank forms; sheets of paper"  },
+        違和感: { 読み方: ['いわかん'], form: '名詞', 意味: "uncomfortable feeling; feeling out of place"  },
+        運転免許証: { 読み方: ['うんてんめんきょしょう'], form: '名詞', 意味: "driver's license"  },
+        窓口: { 読み方: ['まどぐち'], form: '名詞', 意味: "counter; window"  },
+        身分証: { 読み方: ['みぶんしょう'], form: '名詞', 意味: "identification papers; ID"  },
+        会員証: { 読み方: ['かいいんしょう'], form: '名詞', 意味: "membership card; membership certificate"  },
+        混乱: { 読み方: ['こんらん'], form: '名詞、する動詞、自動詞', 意味: "confusion; chaos"  },
+        報告: { 読み方: ['ほうこく'], form: '名詞、する動詞、他動詞', 意味: "report; information"  },
+        制度: { 読み方: ['せいど'], form: '名詞、の形容詞', 意味: "system; institution"  },
+        調査: { 読み方: ['ちょうさ'], form: '名詞、する動詞、他動詞', 意味: "investigation; survey"  },
+        姉妹: { 読み方: ['しまい'], form: '名詞', 意味: "sisters"  },
+        求める: { 読み方: ['もとめる'], form: '一段動詞、他動詞', 意味: "to want; to wish for; to request"  },
+        末: { 読み方: ['〜のすえ'], form: '副詞、名詞', 意味: "(finally/at last) after~; at the end of~"  },
+        加わる: { 読み方: ['くわわる'], form: '五段動詞、自動詞', 意味: "to be added; to join in (group of friends); to increase (e.g. heat); to gain in (e.g. influence)"  },
+        議会: { 読み方: ['ぎかい'], form: '名詞', 意味: "congress; parliament; diet"  },
+        離婚: { 読み方: ['りこん'], form: '名詞、する動詞、自動詞', 意味: "divorce"  },
+        都合: { 読み方: ['〜のつごうで'], form: '副詞、名詞', 意味: "circumstances; for reasons of~"  },
+        議員: { 読み方: ['ぎいん'], form: '名詞', 意味: "member of the Diet; member of parliament"  },
+        同意: { 読み方: ['どうい'], form: '名詞、する動詞、自動詞', 意味: "agreement; consent; same opinion"  },
+        死亡: { 読み方: ['しぼう'], form: '名詞、する動詞、自動詞', 意味: "death; dying"  },
+        国会: { 読み方: ['こっかい'], form: '名詞', 意味: "National Diet; legislative assembly of Japan"  },
     },
 }
 
