@@ -10,6 +10,7 @@ import unit3_1 from './chapters/unit3_1';
 import unit3_1_sankou from './chapters/unit3_1_sankou';
 import unit3_2 from './chapters/unit3_2';
 import unit3_2_sankou from './chapters/unit3_2_sankou';
+import unit4_1 from './chapters/unit4_1';
 
 class Yomu extends React.Component {
     constructor(props) {
@@ -378,6 +379,66 @@ class Yomu extends React.Component {
                 prevDis: true,
                 nextDis: false,
             }
+        }
+        else if (test==='?set=u4-tango-1'){
+            this.state={
+                characters: Object.keys(unit4_1.tango),
+                set: "tango",
+                setName: "U4 単語 1",
+                num: 0,
+                shuffleHide: "",
+                yomikataButton: "",
+                yomikataClass: "d-none",
+                imiButton: "",
+                imiClass: "d-none imi",
+                prevDis: true,
+                nextDis: false,
+            }
+        }
+        else if (test==='?set=u4-kaku-1') {
+            this.state = {
+                characters: Object.keys(unit4_1.kaku),
+                set: "kaku",
+                setName: "U4_1 書き方を覚える漢字",
+                num: 0,
+                shuffleHide: "",
+                yomikataButton: "",
+                yomikataClass: "d-none",
+                imiButton: "",
+                imiClass: "d-none imi",
+                prevDis: true,
+                nextDis: false,
+            };
+        }
+        else if (test==='?set=u4-yomu-1') {
+            this.state = {
+                characters: Object.keys(unit4_1.yomerabaii),
+                set: "yomu",
+                setName: "U3_1 読み方を覚える漢字",
+                num: 0,
+                shuffleHide: "",
+                yomikataButton: "",
+                yomikataClass: "d-none",
+                imiButton: "",
+                imiClass: "d-none imi",
+                prevDis: true,
+                nextDis: false,
+            };
+        }
+        else if (test==='?set=u3-tango-1_sankou'){
+            this.state={
+                characters: Object.keys(unit3_1_sankou.tango),
+                set: "tango",
+                setName: "U3 参考にする単語 1",
+                num: 0,
+                shuffleHide: "",
+                yomikataButton: "",
+                yomikataClass: "d-none",
+                imiButton: "",
+                imiClass: "d-none imi",
+                prevDis: true,
+                nextDis: false,
+            };
         }
 
 
